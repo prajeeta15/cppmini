@@ -160,7 +160,7 @@ public:
 		do
 		{
 			system("cls");
-			PrintMessage("MADE BY SIDHARTH");
+			PrintMessage("WohOoooooo");
 			DrawHangman();
 			RemainingLetters();
 			PrintWord();
